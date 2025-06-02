@@ -1,2 +1,13 @@
 Primer commit del archivo en main
 Segundo commit del archivo en main
+
+Usuario 1 modificó el archivo
+Usuario 1 modificó el archivo otra vez
+
+Usuario2 agregó una linea en el archivo
+Usuario2 agregó otra linea en el archivo
+Usuario2 agregó otra linea en el archivo (3er commit)
+Usuario2 agregó otra linea en el archivo (4to commit)
+
+Usuario3 agregó una linea en el archivo
+
